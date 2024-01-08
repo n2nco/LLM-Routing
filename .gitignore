@@ -1,0 +1,7 @@
+venv*
+bin/
+lib/
+model/
+venv*/
+venv-metal/l
+model*
